@@ -1,0 +1,14 @@
+# Pricing Guide
+
+## Plans
+We offer three main pricing plans:
+
+1. Basic Plan: $10/month or $100/year. Includes 1 user, 10GB storage, and standard support (email only).
+2. Professional Plan: $25/month or $250/year. Includes 5 users, 100GB storage, and priority support (email and chat).
+3. Enterprise Plan: $100/month or $1000/year. Includes unlimited users, 1TB storage, 24/7 phone support, and a dedicated account manager.
+
+## Add-ons
+- Extra Storage: $5/month per additional 50GB.
+- Extra User (Basic/Pro): $5/month per user.
+
+All subscriptions renew automatically unless cancelled before the billing date.

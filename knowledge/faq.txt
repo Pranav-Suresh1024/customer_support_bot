@@ -1,0 +1,13 @@
+# Frequently Asked Questions (FAQ)
+
+Q: How do I change my billing cycle from monthly to annual?
+A: You can change your billing cycle in the Account Settings -> Billing tab. The change will take effect immediately and you will be charged a prorated amount.
+
+Q: Do you offer a free trial?
+A: Yes, we offer a 14-day free trial for the Professional Plan. No credit card is required.
+
+Q: Can I merge two accounts?
+A: Account merging is currently not supported. You must choose one account to keep and manually transfer data, then request closure of the other account.
+
+Q: How fast is standard support?
+A: Standard support queries are typically answered within 24 hours on business days.

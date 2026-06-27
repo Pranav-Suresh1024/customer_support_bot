@@ -1,0 +1,16 @@
+# Technical Manual
+
+## Application Crashes
+If the application crashes upon startup, users should:
+1. Clear their local cache directory located at `~/.app_cache/`.
+2. Ensure they are running version 2.1.0 or newer.
+3. Check their operating system updates.
+
+## File Upload Failures
+If the application crashes whenever you upload a file, it is a known issue in version 2.0.5.
+To resolve this, you must update to version 2.0.6 or newer.
+If the issue persists, ensure the uploaded file size is under 50MB and in a supported format (.pdf, .jpg, .png).
+
+## Login Failures
+If you see a "500 Internal Server Error" during login, our authentication servers might be under heavy load. Please wait 5 minutes and try again.
+If you see an "Invalid Credentials" error, use the "Forgot Password" link to reset your account.

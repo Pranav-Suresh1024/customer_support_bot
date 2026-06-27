@@ -1,0 +1,15 @@
+# Company Policy
+
+## Refunds and Cancellations
+Customers are eligible for a full refund within 30 days of their initial purchase for any reason. 
+After 30 days, refunds are only issued on a pro-rated basis for annual subscriptions, and only if the service has experienced significant downtime (more than 48 hours in a given month) that was our fault.
+All refund requests must be routed to the Billing department and must be approved by management. 
+Subscription cancellations take effect at the end of the current billing cycle. To cancel, a user must request it, which triggers a management review process.
+
+## Escalations
+Any request for compensation, or explicit requests to speak with a manager or escalate an issue, must be flagged for management approval.
+
+## Account Policies
+Accounts that are inactive for 12 months will be suspended.
+To reactivate, users must contact the Account department.
+Account closure requests require management approval.

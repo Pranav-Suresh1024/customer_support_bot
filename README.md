@@ -160,7 +160,7 @@ ollama pull qwen2.5-coder:7b
 **1. Clone or download the project:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pranav-Suresh1024/customer_support_bot.git
 cd customer_support_bot
 ```
 

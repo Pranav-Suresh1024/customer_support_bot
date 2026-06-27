@@ -44,8 +44,6 @@ def human_approval_node(state: AgentState) -> AgentState:
     print(f"Draft Response: {draft_response}\n")
     
     while True:
-        # For demonstration purposes, we will hardcode the user input in main.py by overriding builtins.input, 
-        # or we will accept input if run interactively.
         decision = input("Approve? (Y/N): ").strip().upper()
         
         if decision == 'Y':

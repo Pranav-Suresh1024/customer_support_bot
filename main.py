@@ -26,13 +26,6 @@ def run_demonstration():
         "What was my previous support issue?"
     ]
     
-    # Mocking the human input for query 4 specifically to avoid blocking
-    # The requirement says "except for the human approval step in Query 4", 
-    # but to make this truly automated we can mock `builtins.input` or just let it block.
-    # Let's use a custom input that auto-approves if we want it fully automated, 
-    # but the prompt says "except for the human approval step", implying it SHOULD block.
-    # We will let it block and prompt the user in the terminal.
-    
     for query in queries:
         initial_state = {
             "customer_name": customer_name,
@@ -68,11 +61,4 @@ def run_demonstration():
         print(output)
 
 if __name__ == "__main__":
-    # If the user doesn't want to type 'Y' manually during tests, 
-    # they can monkeypatch input() here. For now, we leave it interactive.
-    
-    # Optional: Automatically say 'Y' to make the script non-blocking if needed by automated runners.
-    # original_input = builtins.input
-    # builtins.input = lambda prompt: 'Y' if "Approve?" in prompt else original_input(prompt)
-    
     run_demonstration()

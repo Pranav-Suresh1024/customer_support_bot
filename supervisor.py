@@ -19,7 +19,6 @@ def supervisor_review_node(state: AgentState) -> AgentState:
     department = state.get("department", "Unknown")
 
     # --- Memory branch ---
-    # memory_recall_node already set final_response directly; preserve it.
     if department == "Memory":
         if not state.get("final_response"):
             state["final_response"] = draft or "No previous records found."

@@ -4,7 +4,7 @@ from datetime import datetime
 from config import DB_PATH, DATABASE_DIR
 from utils import setup_logger
 from state import AgentState
-from langchain_ollama import ChatOllama
+from langchain_community.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 from config import LLM_MODEL, LLM_TEMPERATURE
 

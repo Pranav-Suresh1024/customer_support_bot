@@ -1,4 +1,4 @@
-from langchain_ollama import ChatOllama
+from langchain_community.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 from config import LLM_MODEL, LLM_TEMPERATURE
 from state import AgentState

@@ -1,5 +1,5 @@
 import json
-from langchain_ollama import ChatOllama
+from langchain_community.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 from state import AgentState
 from config import LLM_MODEL, LLM_TEMPERATURE

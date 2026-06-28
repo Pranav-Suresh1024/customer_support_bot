@@ -1,8 +1,9 @@
 langgraph==0.0.39
 langchain==0.1.16
 langchain-community==0.0.34
+
 sentence-transformers==2.7.0
 faiss-cpu==1.8.0
+
 pydantic==2.7.1
 typing_extensions==4.11.0
-sqlite3; sys_platform == 'win32' # standard library, but keeping for reference if needed
